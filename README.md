@@ -24,3 +24,8 @@ parca-push --override-timestamp --remote-store-address=grpc.polarsignals.com:443
 ```
 
 Now you can view the example profiling data and open the source view for it!
+
+It should look something like this:
+
+![Screenshot showing source file with profiling data](screenshot.png)
+
